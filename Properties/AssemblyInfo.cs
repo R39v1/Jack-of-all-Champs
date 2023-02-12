@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
 [assembly: AssemblyTitle("Jack of All Champs | LoL Helper")]
-[assembly: AssemblyDescription("by Raffi#0826")]
+[assembly: AssemblyDescription("by muellerra | Raffi#0826")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Jack of All Champs")]
