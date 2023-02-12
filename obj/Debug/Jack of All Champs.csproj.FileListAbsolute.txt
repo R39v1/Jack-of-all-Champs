@@ -1,0 +1,48 @@
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\Jack of All Champs.exe.config
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\Jack of All Champs.exe
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\Jack of All Champs.pdb
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\obj\Debug\Jack of All Champs.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\obj\Debug\Jack of All Champs.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\obj\Debug\Jack_of_All_Champs.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\obj\Debug\Jack of All Champs.csproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\obj\Debug\Jack of All Champs.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\obj\Debug\Jack of All Champs.exe
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\obj\Debug\Jack of All Champs.pdb
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\System.Buffers.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\System.Memory.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\System.Buffers.xml
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\System.Memory.xml
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\obj\Debug\Jack of All Champs.csproj.CopyComplete
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\System.Text.Json.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\System.Text.Json.xml
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\obj\Debug\Jack_of_All_Champs.FormJoAC.resources
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\System.AppContext.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\System.Console.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\System.IO.Compression.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\System.IO.FileSystem.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\System.Net.Http.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\System.Net.Sockets.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Debug\System.Diagnostics.DiagnosticSource.xml

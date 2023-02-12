@@ -1,0 +1,48 @@
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\Jack of All Champs.exe.config
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\Jack of All Champs.exe
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\Jack of All Champs.pdb
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\System.Buffers.xml
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\System.Memory.xml
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\System.Numerics.Vectors.xml
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\System.Text.Json.xml
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\System.ValueTuple.xml
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\obj\Release\Jack of All Champs.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\obj\Release\Jack of All Champs.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\obj\Release\Jack_of_All_Champs.FormJoAC.resources
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\obj\Release\Jack_of_All_Champs.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\obj\Release\Jack of All Champs.csproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\obj\Release\Jack of All Champs.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\obj\Release\Jack of All Champs.csproj.CopyComplete
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\obj\Release\Jack of All Champs.exe
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\obj\Release\Jack of All Champs.pdb
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\Microsoft.Win32.Primitives.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\System.AppContext.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\System.Buffers.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\System.Console.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\System.Globalization.Calendars.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\System.IO.Compression.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\System.IO.Compression.ZipFile.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\System.IO.FileSystem.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\System.Memory.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\System.Net.Http.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\System.Net.Sockets.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\System.Numerics.Vectors.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\System.Text.Json.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\System.ValueTuple.dll
+C:\Users\User\Documents\Visual Studio 2022\Jack of All Champs\bin\Release\System.Xml.ReaderWriter.dll

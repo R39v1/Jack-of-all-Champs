@@ -1,0 +1,809 @@
+{
+  "champ": [
+    {
+      "name": "Aatrox",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Ahri",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Akali",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Akshan",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Alistar",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Amumu",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Anivia",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Annie",
+      "owned": true,
+      "done": false
+    },
+    {
+      "name": "Aphelios",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Ashe",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "AurelionSol",
+      "owned": true,
+      "done": false
+    },
+    {
+      "name": "Azir",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Bard",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Bel\u0027Veth",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Blitzcrank",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Brand",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Braum",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Caitlyn",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Camille",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Cassiopeia",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Cho\u0027Gath",
+      "owned": true,
+      "done": false
+    },
+    {
+      "name": "Corki",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Darius",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Diana",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Dr.Mundo",
+      "owned": true,
+      "done": false
+    },
+    {
+      "name": "Draven",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Ekko",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Elise",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Evelynn",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Ezreal",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Fiddlesticks",
+      "owned": true,
+      "done": false
+    },
+    {
+      "name": "Fiora",
+      "owned": true,
+      "done": false
+    },
+    {
+      "name": "Fizz",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Galio",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Gangplank",
+      "owned": true,
+      "done": false
+    },
+    {
+      "name": "Garen",
+      "owned": true,
+      "done": false
+    },
+    {
+      "name": "Gnar",
+      "owned": true,
+      "done": false
+    },
+    {
+      "name": "Gragas",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Graves",
+      "owned": true,
+      "done": false
+    },
+    {
+      "name": "Gwen",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Hecarim",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Heimerdinger",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Illaoi",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Irelia",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Ivern",
+      "owned": true,
+      "done": false
+    },
+    {
+      "name": "Janna",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "JarvanIV",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Jax",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Jayce",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Jhin",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Jinx",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Kai\u0027Sa",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Kalista",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Karma",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Karthus",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Kassadin",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Katarina",
+      "owned": true,
+      "done": false
+    },
+    {
+      "name": "Kayle",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Kayn",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Kennen",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Kha\u0027Zix",
+      "owned": true,
+      "done": false
+    },
+    {
+      "name": "Kindred",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Kled",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Kog\u0027Maw",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "LeBlanc",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "LeeSin",
+      "owned": true,
+      "done": false
+    },
+    {
+      "name": "Leona",
+      "owned": true,
+      "done": false
+    },
+    {
+      "name": "Lillia",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Lissandra",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Lucian",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Lulu",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Lux",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Malphite",
+      "owned": true,
+      "done": false
+    },
+    {
+      "name": "Malzahar",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Maokai",
+      "owned": true,
+      "done": false
+    },
+    {
+      "name": "MasterYi",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "MissFortune",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Mordekaiser",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Morgana",
+      "owned": true,
+      "done": false
+    },
+    {
+      "name": "Nami",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Nasus",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Nautilus",
+      "owned": true,
+      "done": false
+    },
+    {
+      "name": "Neeko",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Nidalee",
+      "owned": true,
+      "done": false
+    },
+    {
+      "name": "Nilah",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Nocturne",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Nunu\u0026Willump",
+      "owned": true,
+      "done": false
+    },
+    {
+      "name": "Olaf",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Orianna",
+      "owned": true,
+      "done": false
+    },
+    {
+      "name": "Ornn",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Pantheon",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Poppy",
+      "owned": true,
+      "done": false
+    },
+    {
+      "name": "Pyke",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Qiyana",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Quinn",
+      "owned": true,
+      "done": false
+    },
+    {
+      "name": "Rakan",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Rammus",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Rek\u0027Sai",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Rell",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "RenataGlasc",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Renekton",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Rengar",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Riven",
+      "owned": true,
+      "done": false
+    },
+    {
+      "name": "Rumble",
+      "owned": true,
+      "done": false
+    },
+    {
+      "name": "Ryze",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Samira",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Sejuani",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Senna",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Seraphine",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Sett",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Shaco",
+      "owned": true,
+      "done": false
+    },
+    {
+      "name": "Shen",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Shyvana",
+      "owned": true,
+      "done": false
+    },
+    {
+      "name": "Singed",
+      "owned": true,
+      "done": false
+    },
+    {
+      "name": "Sion",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Sivir",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Skarner",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Sona",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Soraka",
+      "owned": true,
+      "done": false
+    },
+    {
+      "name": "Swain",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Sylas",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Syndra",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "TahmKench",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Taliyah",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Talon",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Taric",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Teemo",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Thresh",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Tristana",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Trundle",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Tryndamere",
+      "owned": true,
+      "done": false
+    },
+    {
+      "name": "TwistedFate",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Twitch",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Udyr",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Urgot",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Varus",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Vayne",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Veigar",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Vel\u0027Koz",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Vex",
+      "owned": true,
+      "done": false
+    },
+    {
+      "name": "Vi",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Viego",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Viktor",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Vladimir",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Volibear",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Warwick",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Wukong",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Xayah",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Xerath",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "XinZhao",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Yasuo",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Yone",
+      "owned": true,
+      "done": true
+    },
+    {
+      "name": "Yorick",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Yuumi",
+      "owned": true,
+      "done": false
+    },
+    {
+      "name": "Zac",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Zed",
+      "owned": true,
+      "done": false
+    },
+    {
+      "name": "Zeri",
+      "owned": true,
+      "done": false
+    },
+    {
+      "name": "Ziggs",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Zilean",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Zoe",
+      "owned": false,
+      "done": false
+    },
+    {
+      "name": "Zyra",
+      "owned": false,
+      "done": false
+    }
+  ]
+}

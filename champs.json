@@ -1,0 +1,809 @@
+{
+  "champ": [
+    {
+      "name": "Aatrox",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Ahri",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Akali",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Akshan",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Alistar",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Amumu",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Anivia",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Annie",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Aphelios",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Ashe",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "AurelionSol",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Azir",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Bard",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Bel'Veth",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Blitzcrank",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Brand",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Braum",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Caitlyn",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Camille",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Cassiopeia",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Cho'Gath",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Corki",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Darius",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Diana",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Dr.Mundo",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Draven",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Ekko",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Elise",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Evelynn",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Ezreal",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Fiddlesticks",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Fiora",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Fizz",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Galio",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Gangplank",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Garen",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Gnar",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Gragas",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Graves",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Gwen",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Hecarim",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Heimerdinger",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Illaoi",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Irelia",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Ivern",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Janna",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "JarvanIV",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Jax",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Jayce",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Jhin",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Jinx",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Kai'Sa",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Kalista",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Karma",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Karthus",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Kassadin",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Katarina",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Kayle",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Kayn",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Kennen",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Kha'Zix",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Kindred",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Kled",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Kog'Maw",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "LeBlanc",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "LeeSin",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Leona",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Lillia",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Lissandra",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Lucian",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Lulu",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Lux",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Malphite",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Malzahar",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Maokai",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "MasterYi",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "MissFortune",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Mordekaiser",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Morgana",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Nami",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Nasus",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Nautilus",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Neeko",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Nidalee",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Nilah",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Nocturne",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Nunu&Willump",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Olaf",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Orianna",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Ornn",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Pantheon",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Poppy",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Pyke",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Qiyana",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Quinn",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Rakan",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Rammus",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Rek'Sai",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Rell",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "RenataGlasc",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Renekton",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Rengar",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Riven",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Rumble",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Ryze",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Samira",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Sejuani",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Senna",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Seraphine",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Sett",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Shaco",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Shen",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Shyvana",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Singed",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Sion",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Sivir",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Skarner",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Sona",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Soraka",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Swain",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Sylas",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Syndra",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "TahmKench",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Taliyah",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Talon",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Taric",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Teemo",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Thresh",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Tristana",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Trundle",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Tryndamere",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "TwistedFate",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Twitch",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Udyr",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Urgot",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Varus",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Vayne",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Veigar",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Vel'Koz",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Vex",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Vi",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Viego",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Viktor",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Vladimir",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Volibear",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Warwick",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Wukong",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Xayah",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Xerath",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "XinZhao",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Yasuo",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Yone",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Yorick",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Yuumi",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Zac",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Zed",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Zeri",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Ziggs",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Zilean",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Zoe",
+      "owned": 1,
+      "done": 0
+    },
+    {
+      "name": "Zyra",
+      "owned": 1,
+      "done": 0
+    }
+  ]
+}
